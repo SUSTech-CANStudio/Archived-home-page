@@ -1,9 +1,6 @@
 header:
-  - titles:     Home
+  - title:      Home
     url:        /
-  - title:      Docs
-    url:        /docs/en/quick-start
-    key:        docs
   - title:      Archive
     url:        /archive.html
   - title:      About
