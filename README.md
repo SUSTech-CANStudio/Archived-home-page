@@ -1,6 +1,8 @@
 # The Jekyll GitHub Pages for the CAN Studio
 _Theme: [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)_
 
+Please use pull request for a change. (eg: merge `post/welcome` into `master` or merge `fix/docs-404` into `master`)
+
 **[Change Log](https://github.com/SUSTech-CANStudio/SUSTech-CANStudio.github.io/blob/master/CHANGELOG.md)** | **[中文](https://github.com/SUSTech-CANStudio/SUSTech-CANStudio.github.io/blob/master/README-zh.md)**
 
 ## Documentation for editting

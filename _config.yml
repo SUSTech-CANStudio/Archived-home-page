@@ -251,6 +251,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-admin
   - jemoji
 
 data_dir: _data

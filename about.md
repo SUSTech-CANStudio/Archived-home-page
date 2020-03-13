@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-# 罐头团队介绍 (TODO: to be translated)
+# 罐头团队介绍
 
 ## 0. 组织性质
 

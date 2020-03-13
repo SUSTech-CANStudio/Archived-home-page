@@ -1,5 +1,5 @@
 header:
-  - title:      Home
+  - titles:     Home
     url:        /
   - title:      Docs
     url:        /docs/en/quick-start
