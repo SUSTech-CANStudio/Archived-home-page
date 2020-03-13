@@ -1,3 +1,8 @@
+---
+layout: article
+permalink: /tester
+key: test
+---
 # HOW TO RELEASE
 
 ## Preparation
